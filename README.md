@@ -4,8 +4,11 @@ Dettte er er et repo for gruppe 5 i IN2010 H22. Alle slides, kode og oppgaver so
 
 Timene foregår på tirsdager kl. 10:15 på seminarrom C! 
 
-##### Kontakt:
+### Kontakt:
 
 Mail: amadus@ifi.uio.no
 
 Mattermost: amadus
+
+## Ukeplan
+* [Uke 1](https://github.com/amaduswaray/IN2010-Gruppe-5/tree/main/Uke%2001) - O-Notasjon og Binærsøk
