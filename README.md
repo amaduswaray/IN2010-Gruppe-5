@@ -16,7 +16,7 @@ Mattermost: amadus
 * Oblig 1[TBA] - Frist: Fredag 16. september kl. 23:59
 * Oblig 2[TBA] - Frist: Fredag 14. oktober kl. 23:59
 * Oblig 3[TBA] - Frist: Fredag 4. november kl. 23:59
-* Oblig 4[TBA](Frivillig) Frist: Fredag 18. november kl. 23:59
+* Oblig 4[TBA]()(Frivillig) Frist: Fredag 18. november kl. 23:59
 
 
 ## Ukeplan
