@@ -53,4 +53,9 @@ Simplifiser Big O ligningene:
 * O(n + n + n + n + n + n) 
 
 
+###### Big O på kode
+* [Begynner](https://github.com/sergiosja/IN2010-Gruppe-6/blob/main/Uke%2001/Big%20O/bigo_easy.py)
+* [Intermedite])(https://github.com/sergiosja/IN2010-Gruppe-6/blob/main/Uke%2001/Big%20O/bigo_intermediate.py)
+
+
 
