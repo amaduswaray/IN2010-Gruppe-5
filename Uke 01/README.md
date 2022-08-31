@@ -28,7 +28,7 @@ Q: Hvor mange steg trenger man for å løse en algoritme? In worst case.
 * Variabler kan ganges sammen for å gjøre det enklere å se hva som vokser raskest
   * Eksempel: O( (n+15)*(n+20) ) = O(n^2 + 20n + 15n + 15*20) = O(n^2) ettersom at n^2 vokser raskest
   * Dette eksempelet kan også løses ved å se bort fra konstantene, ettersom at n vokser raskest i begge parantesene. Da ser løsningen slik ut:
-    * O( (n+15)*(n+20) )= O(n*n) = O(n^2)
+    * O( (n+15) * (n+20) )= O(n * n) = O(n^2)
 
 
 *Formulering*
