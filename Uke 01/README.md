@@ -3,7 +3,7 @@
 Denne uka gikk vi gjennom O notasjon og Binærsøk! Gjerne gå ukas [slides](https://github.com/amaduswaray/IN2010-Gruppe-6/blob/main/Uke%2001/IN2010%20Uke%201.pdf) 🤩
 
 ### Algorithms of the week
-* Biærsøk
+* Binærsøk
 
 #### Viktige Datastrukturer
 * Stack
