@@ -1,6 +1,6 @@
 # Uke 1 - Big O notasjon og Binærsøk :)
 
-Denne uka gikk vi gjennom O notasjon og Binærsøk! Gjerne gå ukas [slides](IN2010 Uke 1.pdf) 🤩
+Denne uka gikk vi gjennom O notasjon og Binærsøk! Gjerne gå ukas [slides](https://github.com/amaduswaray/IN2010-Gruppe-6/blob/main/Uke%2001/IN2010%20Uke%201.pdf) 🤩
 
 ### Algoruthms of the week
 * Biærsøk
