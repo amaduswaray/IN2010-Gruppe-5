@@ -16,7 +16,7 @@ Denne uka gikk vi gjennom O notasjon og Binærsøk! Gjerne gå ukas [slides](htt
 
 Q: Hvor mange steg trenger man for å løse en algoritme? In worst case.
 
-*Lifehack regler*
+#### *Lifehack regler*
 * Når det er ledd mellom plusstegn, så kan man ta hensyn til det leddet som vokser raskest:
   * Eksempel: O(n^3 + n^2 + n) = O(n^3) fordi n^3 vokser raskest når n øker :)
  
@@ -31,7 +31,7 @@ Q: Hvor mange steg trenger man for å løse en algoritme? In worst case.
     * O( (n+15) * (n+20) )= O(n * n) = O(n^2)
 
 
-*Formulering*
+#### *Formulering*
 * Konstant tid = O(1)
 * Lineær tid = O(n)
 * Logaritmisk tid = O(log(n))
@@ -44,7 +44,7 @@ Når man jobber flere inputs og inputsstørrelser som er uavhengig av hverandre,
 
 # Ukes og Gruppe Oppgaver:
 
-#### Big O
+### Big O
 
 Simplifiser Big O ligningene:
 * O(n^3 + 50n^2 + 10000) 
