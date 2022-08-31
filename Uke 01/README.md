@@ -56,6 +56,7 @@ Simplifiser Big O ligningene:
 ###### Big O på kode
 
 Prøv deg på disse enkle oppgave!
+
 <img width="479" alt="Screen Shot 2022-08-31 at 2 16 42 PM" src="https://user-images.githubusercontent.com/86655546/187676321-980ac50c-4fff-478b-a451-4a73dccc9e71.png">
 
 
