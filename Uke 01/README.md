@@ -2,7 +2,7 @@
 
 Denne uka gikk vi gjennom O notasjon og Binærsøk! Gjerne gå ukas [slides](https://github.com/amaduswaray/IN2010-Gruppe-6/blob/main/Uke%2001/IN2010%20Uke%201.pdf) 🤩
 
-### Algoruthms of the week
+### Algorithms of the week
 * Biærsøk
 
 #### Viktige Datastrukturer
@@ -53,7 +53,7 @@ Simplifiser Big O ligningene:
 * O(n + n + n + n + n + n) 
 
 
-###### Big O på kode
+##### Big O på kode
 
 Prøv deg på disse enkle oppgave!
 
@@ -64,4 +64,16 @@ Prøv deg på disse enkle oppgave!
 * [Intermedite](https://github.com/sergiosja/IN2010-Gruppe-6/blob/main/Uke%2001/Big%20O/bigo_intermediate.py)
 
 
+### Ukesoppgaver fra Boka
+* R-1.9
+* R-1.11 - 1.15
+* C-1.8
+* C-1.19 (Ignorer minnerestriksjonen)
+* C-1.24
 
+Disse oppgavene ligger også på bunnenen av ukas [slides](https://github.com/amaduswaray/IN2010-Gruppe-6/blob/main/Uke%2001/IN2010%20Uke%201.pdf) 🤫
+
+#### Prøv deg på Kattis!
+* [Pairing Socks](https://open.kattis.com/problems/pairingsocks)
+* [Backspace](https://open.kattis.com/problems/backspace)
+* [Guess](https://open.kattis.com/problems/guess)
