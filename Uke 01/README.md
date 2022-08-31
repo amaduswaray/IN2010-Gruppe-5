@@ -76,9 +76,9 @@ Disse oppgavene ligger også på bunnenen av ukas [slides](https://github.com/am
 
 ### Ukessoppgaver
 * Implementer Binærsøk iterativt
- * Løsningsforslag ligger [her](https://github.com/amaduswaray/IN2010-Gruppe-5/blob/main/Uke%2001/Livekode/Bin%C3%A6rs%C3%B8k-Iter.py)
+   * Løsningsforslag ligger [her](https://github.com/amaduswaray/IN2010-Gruppe-5/blob/main/Uke%2001/Livekode/Bin%C3%A6rs%C3%B8k-Iter.py)
 * Implementer Binærsøk rekursivt
- * Løsningsforslag ligger [her](https://github.com/amaduswaray/IN2010-Gruppe-5/blob/main/Uke%2001/Livekode/Bin%C3%A6rs%C3%B8k-Rek.py)
+   * Løsningsforslag ligger [her](https://github.com/amaduswaray/IN2010-Gruppe-5/blob/main/Uke%2001/Livekode/Bin%C3%A6rs%C3%B8k-Rek.py)
 
 #### Prøv deg på Kattis!
 * [Pairing Socks](https://open.kattis.com/problems/pairingsocks)
