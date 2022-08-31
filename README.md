@@ -8,4 +8,4 @@ Timene foregår på tirsdager kl. 10:15 på seminarrom C!
 
 Mail: amadus@ifi.uio.no
 
-Mattermost: Amadus.
+Mattermost: amadus
