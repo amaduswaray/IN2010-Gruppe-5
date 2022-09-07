@@ -1,6 +1,6 @@
 # Uke 2 - Trær, Binære søketrær og AVL Trær :)
 
-Denne uka gikk vi gjennom de ulike trestrukturene, og hadde gjennomgang av rotasjoner Gjerne gå ukas sliides(legges ut etter timen)
+Denne uka gikk vi gjennom de ulike trestrukturene, og hadde gjennomgang av rotasjoner Gjerne gå ukas [slides](https://github.com/amaduswaray/IN2010-Gruppe-5/blob/main/Uke%2002/IN2010%20Uke%202.pdf)
 
 ### Algorithms of the week
 Ukas algoritmer var basert på ulike operasjoner som man utfører på trær. Dette inkluderer:
@@ -26,7 +26,7 @@ Ukas algoritmer var basert på ulike operasjoner som man utfører på trær. Det
 
 ## Oblig 1 Tips og tricks
 I år har det blitt et fokus å gjøre obligene slik at programmene tar bruk i stdin og stdout
-For å komme i gang jeg laget et enkelt skellett for et binært søketre her
+For å komme i gang jeg laget et enkelt skellett for et binært søketre [her](https://github.com/amaduswaray/IN2010-Gruppe-5/blob/main/Uke%2002/Kode/bs_skellet.py)
 Filen inneholder også tips og triks på hvordan man kan bruke stdin, stdout og teste løsningen sin på kattis!
 
 
