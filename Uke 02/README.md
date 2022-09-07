@@ -24,6 +24,12 @@ Ukas algoritmer var basert på ulike operasjoner som man utfører på trær. Det
 * Rød-Svart tre(ikke like viktig)
 
 
+## Oblig 1 Tips og tricks
+I år har det blitt et fokus å gjøre obligene slik at programmene tar bruk i stdin og stdout
+For å komme i gang jeg laget et enkelt skellett for et binært søketre her
+Filen inneholder også tips og triks på hvordan man kan bruke stdin, stdout og teste løsningen sin på kattis!
+
+
 # Ukes og Gruppe Oppgaver:
 
 ### Binære søketre
