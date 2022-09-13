@@ -22,3 +22,4 @@ Mattermost: amadus
 ## Ukeplan
 * [Uke 1](https://github.com/amaduswaray/IN2010-Gruppe-5/tree/main/Uke%2001) - O-Notasjon og Binærsøk
 * [Uke 2](https://github.com/amaduswaray/IN2010-Gruppe-5/tree/main/Uke%2002) - Trær, Binære søketrær og AVL Trær
+* [Uke 3](https://github.com/amaduswaray/IN2010-Gruppe-5/tree/main/Uke%2003) - Prioritetskøer, Binære heaps og Huffman-koding
