@@ -37,7 +37,7 @@ For binære heaps anbefales det å implementere algoritmene fra timen! Om du ser
 ### Huffman trær:
 
 **Disse oppgavene burde du gjøre for hånd, og tegne opp treet selv! På denne måten kan du få en god forståelse**
-* Nedenfor vil jeg linke til et skejllet der du også kan få implementere det å bygge et huffman tre selv :)*
+*Nedenfor vil jeg linke til et skejllet der du også kan få implementere det å bygge et huffman tre selv :)*
 
 **1:**
 A file contains only spaces and digits in the following frequency: space (9), a (5), b (1), d (3), e (7), f (3), h (1), i (1), k (1), n (4), o (1), r (5), s (1), t (2), u (1), v (1).
@@ -46,7 +46,7 @@ Construct the Huffman tree:
 Ekstra: Ekstra: Hva er huffman-koden til strengen "hei du der borte"?
 
 
-**21**
+**2:**
 A file contains only colons, spaces, newlines, commas, and digits in the following frequency: colon (100), space (605), newline (100), comma(705), 0 (431), 1 (242), 2 (176), 3 (59), 4 (185), 5 (250), 6 (174), 7 (199), 8 (205), 9 (217).
 
 Construct the Huffman tree
