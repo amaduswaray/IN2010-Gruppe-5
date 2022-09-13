@@ -29,7 +29,7 @@ Filen inneholder også tips og triks på hvordan man kan bruke stdin, stdout og 
 # Ukes og Gruppe Oppgaver:
 
 
-##### Binære Heaps
+### Binære Heaps
 
 For binære heaps anbefales det å implementere algoritmene fra timen! Om du ser etter en større utfordring så er det mange kattis oppgaver som tar bruk i prioritetskøer!
 
