@@ -52,7 +52,7 @@ A file contains only colons, spaces, newlines, commas, and digits in the followi
 Construct the Huffman tree
 Ekstra: Hva er huffman-koden til telefonnummeret ditt?
 
-Skjellettet til det å bygge huffman trær kan du finne her
+Skjellettet til det å bygge huffman trær kan du finne [her](https://github.com/amaduswaray/IN2010_h2021/blob/main/uke3/kode/huffman.py)
 
 
 #### Prøv deg på Kattis!
