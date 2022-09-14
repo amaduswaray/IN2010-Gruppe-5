@@ -1,6 +1,6 @@
 # Uke 3 - Prioritetskøer, binære heaps og huffman-koding :)
 
-Denne uka gikk vi gjennom de ulike trestrukturene, og hadde gjennomgang av rotasjoner Gjerne gå ukas [slides](https://github.com/amaduswaray/IN2010-Gruppe-5/blob/main/Uke%2002/IN2010%20Uke%202.pdf)
+Denne uka gikk vi gjennom de ulike trestrukturene, og hadde gjennomgang av rotasjoner Gjerne gå ukas [slides](https://github.com/amaduswaray/IN2010-Gruppe-5/blob/main/Uke%2003/IN2010%20Uke%203.pdf)
 
 ### Algorithms of the week
 Ukas algoritmer var basert på ulike operasjoner som man utfører på binære heaps. Dette inkluderer:
