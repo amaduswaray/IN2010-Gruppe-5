@@ -1,6 +1,6 @@
 # Uke 4 - Sortering 2: Merge, Quick, Bucket og Radix
 
-Denne uka gikk vi gjennom de ulike trestrukturene, og hadde gjennomgang av rotasjoner Gjerne gå ukas [slides](https://github.com/amaduswaray/IN2010-Gruppe-5/blob/main/Uke%2004/IN2010%20Uke%204.pdf)
+Denne uka gikk vi gjennom de ulike trestrukturene, og hadde gjennomgang av rotasjoner Gjerne gå ukas [slides](https://github.com/amaduswaray/IN2010-Gruppe-5/blob/main/Uke%2005/IN2010%20Uke%205.pdf)
 
 ### Algorithms of the week
 Ukas algoritmer handler primært om å implementere de ulike algoritmene!:
