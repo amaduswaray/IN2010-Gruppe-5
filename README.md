@@ -14,7 +14,7 @@ Mattermost: amadus
 
 * [Oblig 0](https://www.uio.no/studier/emner/matnat/ifi/IN2010/h22/Innleveringer/innleveringsoppgave0/innleveringsoppgave0.pdf)(Frivillig!) - Frist: Fredag 9. september kl. 23:59
 * [Oblig 1](https://www.uio.no/studier/emner/matnat/ifi/IN2010/h22/Innleveringer/innleveringsoppgave1/innleveringsoppgave1.pdf) - Frist: Fredag 23. september kl. 23:59
-* Oblig 2[TBA] - Frist: Fredag 14. oktober kl. 23:59
+* [Oblig 2](https://www.uio.no/studier/emner/matnat/ifi/IN2010/h22/Innleveringer/innleveringsoppgave2/innleveringsoppgave2.pdf) - Frist: Fredag 14. oktober kl. 23:59
 * Oblig 3[TBA] - Frist: Fredag 4. november kl. 23:59
 * Oblig 4[TBA]()(Frivillig) Frist: Fredag 18. november kl. 23:59
 
