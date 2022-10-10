@@ -1,6 +1,6 @@
-# Uke 5 - Grafer: Hva grafer er, hvordan de representeres, hvordan traversere de, hvordan de kan ordnes.
+# Uke 6 - Grafer: Hva grafer er, hvordan de representeres, hvordan traversere de, hvordan de kan ordnes.
 
-Denne uka gikk vi gjennom litt basoics om grafer. Se mer på ukas [slides](https://github.com/amaduswaray/IN2010-Gruppe-5/blob/main/Uke%2005/IN2010%20Uke%205.pdf)
+Denne uka gikk vi gjennom litt basoics om grafer. Se mer på ukas [slides](https://github.com/amaduswaray/IN2010-Gruppe-5/blob/main/Uke%2006/IN2010%20Uke%206.pdf)
 
 ### Algorithms of the week
 Ukas algoritmer handler primært om å traversere grafer!
