@@ -10,6 +10,7 @@ Mail: amadus@ifi.uio.no
 Mail: filiplu@uio.no
 
 Mattermost: amadus
+
 Mattermost: filiplu
 
 ### Obliger:
