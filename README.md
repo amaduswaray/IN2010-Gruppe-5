@@ -28,3 +28,5 @@ Mattermost: filiplu
 * [Uke 3](https://github.com/amaduswaray/IN2010-Gruppe-5/tree/main/Uke%2003) - Prioritetskøer, Binære heaps og Huffman-koding
 * [Uke 4](https://github.com/amaduswaray/IN2010-Gruppe-5/tree/main/Uke%2004) - Sortering 1: Bubble, Selection, Insertion og Heap
 * [Uke 5](https://github.com/amaduswaray/IN2010-Gruppe-5/tree/main/Uke%2005) - Sortering 2: Merge, Quick, Bucket og Radix
+* [Uke 6](https://github.com/amaduswaray/IN2010-Gruppe-5/tree/main/Uke%2006) - Grafer - Traversering(BFS og DFS) - Topologisk sortering
+* [Uke 7](https://github.com/amaduswaray/IN2010-Gruppe-5/tree/main/Uke%2007) - Grafer - Korteste vei og mininale spenntrær
