@@ -1,4 +1,4 @@
-# Uke 8 - Grafer: Korsteste vei og Spenntrær
+# Uke 10 - Hashing
 
 Denne uken gikk vi gjennom hashing og de ulike hashing funksjonene! Se mer på ukas [slides]()..
 
