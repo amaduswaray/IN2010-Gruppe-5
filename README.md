@@ -31,4 +31,4 @@ Mattermost: filiplu
 * [Uke 6](https://github.com/amaduswaray/IN2010-Gruppe-5/tree/main/Uke%2006) - Grafer - Traversering(BFS og DFS) - Topologisk sortering
 * [Uke 7](https://github.com/amaduswaray/IN2010-Gruppe-5/tree/main/Uke%2007) - Grafer - Korteste vei og mininale spenntrær(Fokus på Spenntrær)
 * [Uke 8](https://github.com/amaduswaray/IN2010-Gruppe-5/tree/main/Uke%2008) - Grafer - Korteste vei om minimale spenntrær(Fokus på korteste vei)
-* [Uke 9]() - 2-Sammenhengende grafer og sammenhengende komponenter
+* [Uke 9](https://github.com/amaduswaray/IN2010-Gruppe-5/tree/main/Uke%2009) - 2-Sammenhengende grafer og sammenhengende komponenter
