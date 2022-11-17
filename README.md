@@ -13,6 +13,8 @@ Mattermost: amadus
 
 Mattermost: filiplu
 
+*Slides fra repitisjonstimene er de samme som slidene fra den uka vi gikk gjennom gittt tema :)*
+
 ### Obliger:
 
 * [Oblig 0](https://www.uio.no/studier/emner/matnat/ifi/IN2010/h22/Innleveringer/innleveringsoppgave0/innleveringsoppgave0.pdf)(Frivillig!) - Frist: Fredag 9. september kl. 23:59
