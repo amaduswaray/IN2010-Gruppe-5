@@ -1,4 +1,4 @@
-# Uke 8 - 2-Sammenhengende grafer og sammenhengende komponenter
+# Uke 9 - 2-Sammenhengende grafer og sammenhengende komponenter
 
 Denne uka var det desvrerre ikke undervisning, og dermed er det ikke noen slides fra uka. Uansett så var ukas tema 2-Sammenhengende grafer og sammenhengende komponenter, og det kan du dere se [her](https://www.uio.no/studier/emner/matnat/ifi/IN2010/h22/undervisningsmateriale/uke-42-handout.pdf)
 
