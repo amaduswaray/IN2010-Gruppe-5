@@ -70,4 +70,6 @@ Implementer algoritmen for en ekstra utfordring :)
 
 <img width="864" alt="image" src="https://user-images.githubusercontent.com/86655546/203151298-28257680-ef84-40ca-b0a3-abc32f4facfc.png">
 
+---
+
 
