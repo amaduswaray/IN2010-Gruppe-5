@@ -15,6 +15,10 @@ Mattermost: filiplu
 
 *Slides fra repitisjonstimene er de samme som slidene fra den uka vi gikk gjennom gittt tema :)*
 
+Nå som det er eksamenstid så har jeg funnet noen gode oppgaver dere kan jobbe med:
+[Eksamensrelevante oppgaver](https://github.com/amaduswaray/IN2010-Gruppe-5/tree/main/Eksamen-Oppgaver)
+
+
 ### Obliger:
 
 * [Oblig 0](https://www.uio.no/studier/emner/matnat/ifi/IN2010/h22/Innleveringer/innleveringsoppgave0/innleveringsoppgave0.pdf)(Frivillig!) - Frist: Fredag 9. september kl. 23:59
