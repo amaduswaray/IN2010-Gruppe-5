@@ -51,6 +51,8 @@ Til slutt så vil et dokument med fasiten være lagt ut [her](https://github.com
 ---
 
 <img width="846" alt="image" src="https://user-images.githubusercontent.com/86655546/203147896-f9ed1b5d-5429-43ab-85fa-5d3c39a92de8.png">
+Implimenter algoritmen for ekstra utfordring :)
+
 
 ---
 
