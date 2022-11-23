@@ -2,7 +2,7 @@
 
 Denne uka var det desvrerre ikke undervisning, og dermed er det ikke noen slides fra uka. Uansett så var ukas tema 2-Sammenhengende grafer og sammenhengende komponenter, og det kan du dere se [her](https://www.uio.no/studier/emner/matnat/ifi/IN2010/h22/undervisningsmateriale/uke-42-handout.pdf)
 
-Slides er done og de er [her])()
+Slides er done og de er [her](https://github.com/amaduswaray/IN2010-Gruppe-5/blob/main/Uke%2009/IN2010%20Uke%209.pdf)
 
 
 ### Algorithms of the week
