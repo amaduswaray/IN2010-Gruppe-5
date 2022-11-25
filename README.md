@@ -19,6 +19,9 @@ Nå som det er eksamenstid så har jeg funnet noen gode oppgaver dere kan jobbe 
 [Eksamensrelevante oppgaver](https://github.com/amaduswaray/IN2010-Gruppe-5/tree/main/Eksamen-Oppgaver)
 
 
+På emne siden så ligger ikke konte-eksamen 2021 ute, men den kan dere finne [her](https://github.com/amaduswaray/IN2010-Gruppe-5/blob/main/Eksamen-Oppgaver/utsattEksamenH21.pdf). Det er ikke noe fasit lagt ut, men det er en grei måte å øve på uten å vite om han har gjort ting rett. God måte å simulere eksamen på :)
+
+
 ### Obliger:
 
 * [Oblig 0](https://www.uio.no/studier/emner/matnat/ifi/IN2010/h22/Innleveringer/innleveringsoppgave0/innleveringsoppgave0.pdf)(Frivillig!) - Frist: Fredag 9. september kl. 23:59
